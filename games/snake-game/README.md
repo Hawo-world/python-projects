@@ -8,7 +8,7 @@ A classic grid-based Snake game with growing mechanics.
 - Score counter
 - Grid-based movement
 
-## 🚀 How to Run
+##  How to Run
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
@@ -18,7 +18,7 @@ python main.py
 
 ---
 
-## 🛠 Step 7. Git Commands
+##  Step 7. Git Commands
 From your repo root:
 
 ```bash
